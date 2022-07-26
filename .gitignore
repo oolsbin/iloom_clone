@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-
+# manifest
+*.MF
 # Log file
 *.log
 
